@@ -10,7 +10,7 @@ PKG_LICENSE_FILES:=LICENSE
 
 PKG_SOURCE:=Xray-core-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=https://codeload.github.com/pheihuihui/Xray-core/tar.gz/v${PKG_VERSION}?
-PKG_HASH:=c0ec611e88c73aaaa1126f03f6519aa077cadc8fcf3e3d940955cc8b8e1419e3
+PKG_HASH:=37d08d6a18e6cd9992e4d2e9cd4d0308fa871d2dbbaea6963f3df5595d9112bc
 PKG_BUILD_DEPENDS:=golang/host
 PKG_BUILD_PARALLEL:=1
 
